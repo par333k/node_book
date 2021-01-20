@@ -1,5 +1,5 @@
 // usl 모듈 안에는 URL 생성자가 있다. 이 생성자에 주소를 넣어 객체로 만들면 주소가 부분별로 정리된다(WHATWG 방식)
-const url = require('url');
+const url = require('basic/url');
 
 const { URL } = url;
 const myURL = new URL('http://www.gilbut.co.kr/book/bookList.aspx?sercate1=001001000#anchor');

@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('basic/path');
 
 const string = __filename;
 
