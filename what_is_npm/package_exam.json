@@ -1,0 +1,14 @@
+{
+  "name": "what_is_npm",
+  "version": "1.0.0",
+  "description": "Hello package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "abc"
+  },
+  "dependencies": {
+    "npm_dependency_package": "version"
+  },
+  "author": "Park",
+  "license": "ISC"
+}
